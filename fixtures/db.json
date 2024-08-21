@@ -1,0 +1,50 @@
+{
+  "managers": [
+    {
+      "id": "a123",
+      "name": "Jane Smith"
+    },
+    {
+      "id": "222f",
+      "name": "Asd2"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Alice Johnson",
+      "manager_id": "a123",
+      "date_of_birth": "1990-05-15",
+      "phone": "+12345678901",
+      "gender": "female",
+      "status": "active",
+      "id": "c001"
+    },
+    {
+      "name": "Bob Brown",
+      "manager_id": "a123",
+      "date_of_birth": "1985-11-20",
+      "phone": "+09876543212",
+      "gender": "male",
+      "status": "pending",
+      "id": "c002"
+    },
+    {
+      "id": "b3e8",
+      "name": "1223",
+      "manager_id": "0c9a",
+      "date_of_birth": "1111-11-11",
+      "phone": "+111111111111",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "name": "111234",
+      "manager_id": "222f",
+      "date_of_birth": "1111-11-12",
+      "phone": "1111111114",
+      "gender": "male",
+      "status": "archive",
+      "id": "88ce"
+    }
+  ]
+}

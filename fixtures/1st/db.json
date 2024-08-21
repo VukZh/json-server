@@ -1,0 +1,41 @@
+{
+  "managers": [
+    {
+      "id": "m001",
+      "name": "John Doe"
+    },
+    {
+      "id": "a123",
+      "name": "Jane Smith"
+    }
+  ],
+  "clients": [
+    {
+      "id": "c001",
+      "manager_id": "7be4",
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-05-15",
+      "phone": "+1234567890",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": "c002",
+      "manager_id": "a123",
+      "name": "Bob Brown",
+      "date_of_birth": "1985-11-20",
+      "phone": "+0987654321",
+      "gender": "male",
+      "status": "pending"
+    },
+    {
+      "id": "c003",
+      "manager_id": "7be4",
+      "name": "Charlie Davis",
+      "date_of_birth": "1975-02-28",
+      "phone": "+1122334455",
+      "gender": "male",
+      "status": "archive"
+    }
+  ]
+}
